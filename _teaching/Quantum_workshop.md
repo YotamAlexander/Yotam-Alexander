@@ -1,13 +1,13 @@
 ---
-title: "Algorithms"
+title: "Workshop in Quantum Algorithms and Cryptography
+"
 collection: teaching
-type: "Undergraduate"
+type: "Undergradute Workshop"
 permalink: 
 venue: "Tel Aviv University, CS department"
-date: 2022-01-01
+date: 2024-01-01
 location: 
 ---
 
-[Course Information](https://www.ims.tau.ac.il/Tal/Syllabus/Syllabus_L.aspx?course=0368216003&year=2024)
 
 
