@@ -1,0 +1,13 @@
+---
+title: "Algorithms"
+collection: teaching
+type: "Undergraduate"
+permalink: 
+venue: "Tel Aviv University, CS department"
+date: 2022-01-01
+location: 
+---
+
+[Course Information](https://www.ims.tau.ac.il/Tal/Syllabus/Syllabus_L.aspx?course=0368216003&year=2024)
+
+
