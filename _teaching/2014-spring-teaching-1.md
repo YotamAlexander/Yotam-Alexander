@@ -1,5 +1,5 @@
 
-
+---
 title: "Algorithms"
 collection: teaching
 type: "Undergraduate"
