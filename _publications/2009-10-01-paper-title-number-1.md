@@ -5,7 +5,7 @@ category: conferences
 permalink: 'https://arxiv.org/abs/2303.11249'
 excerpt: 
 date: 2023-10-01
-venue: 'Conference on Neural Information Processing Systems (NeurIPS), Spotlight Track (top 3%).'
+venue: 'Conference on Neural Information Processing Systems (NeurIPS), Spotlight Track (top 3%)'
 slidesurl: 
 paperurl: 'https://arxiv.org/abs/2303.11249'
 citation: 
