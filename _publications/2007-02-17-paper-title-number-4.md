@@ -1,5 +1,5 @@
 ---
-title: "Implicit Bias of Policy Gradient in Linear Quadratic Control: Extrapolation to Unseen Initial States"
+title: "Implicit Bias of Policy Gradient in Linear Quadratic Control: Extrapolation to Unseen Initial States!"
 collection: publications
 category: conferences
 excerpt: 
