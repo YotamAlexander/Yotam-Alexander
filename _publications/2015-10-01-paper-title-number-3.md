@@ -2,7 +2,7 @@
 title: "Cone points of Brownian motion in arbitrary dimension"
 collection: publications
 category: manuscripts
-permalink: https://arxiv.org/abs/1805.01958
+permalink:
 excerpt:
 date: 2018-10-01
 venue: Annals of Probability
