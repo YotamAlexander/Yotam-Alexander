@@ -1,7 +1,7 @@
 ---
 title: " What Makes Data Suitable for a Locally Connected Neural Network? A Necessary and Sufficient Condition Based on Quantum Entanglement"
 collection: publications
-category: 
+category: manuscripts
 permalink: 'https://arxiv.org/abs/2303.11249'
 excerpt: 
 date: 2023-10-01
