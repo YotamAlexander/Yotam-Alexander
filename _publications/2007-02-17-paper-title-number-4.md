@@ -2,7 +2,6 @@
 title: "Implicit Bias of Policy Gradient in Linear Quadratic Control: Extrapolation to Unseen Initial States"
 collection: publications
 category: conferences
-permalink: 
 excerpt: 
 date: 2024-02-17
 venue: International Conference on Machine Learning (ICML)
