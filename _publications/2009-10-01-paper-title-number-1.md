@@ -2,7 +2,7 @@
 title: " What Makes Data Suitable for a Locally Connected Neural Network? A Necessary and Sufficient Condition Based on Quantum Entanglement"
 collection: publications
 category: conferences
-permalink: 'https://arxiv.org/abs/2303.11249'
+permalink: 
 excerpt: 
 date: 2023-10-01
 venue: 'Conference on Neural Information Processing Systems (NeurIPS), Spotlight Track (top 3%)'
