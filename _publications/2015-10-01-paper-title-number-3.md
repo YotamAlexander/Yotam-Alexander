@@ -6,8 +6,8 @@ permalink: https://arxiv.org/abs/1805.01958
 excerpt:
 date: 2018-10-01
 venue: Annals of Probability
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+slidesurl:
+paperurl: https://arxiv.org/abs/1805.01958
 citation: 
 ---
 
