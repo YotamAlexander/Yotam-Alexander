@@ -5,7 +5,7 @@ category: conferences
 permalink: https://arxiv.org/abs/2402.07875
 excerpt: 
 date: 2024-02-17
-venue: International Conference on Machine Learning (ICML) 2024.'
+venue: International Conference on Machine Learning (ICML)'
 paperurl: 'https://arxiv.org/abs/2402.07875'
 citation:
 ---
