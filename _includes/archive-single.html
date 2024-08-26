@@ -26,13 +26,14 @@
       </div>
     {% endif %}
 
- <h2 class="archive__item-title" itemprop="headline">
-   {% if post.link %}
+<h2 class="archive__item-title" itemprop="headline">
+  {% if post.link %}
     {{ title }} <!-- Remove the link around title -->
-   {% else %}
+  {% else %}
     {{ title }} <!-- Remove the link around title -->
-   {% endif %}
+  {% endif %}
 </h2>
+
 
     
     {% if post.read_time %}
