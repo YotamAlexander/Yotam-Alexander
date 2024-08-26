@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: " What Makes Data Suitable for a Locally Connected Neural Network? A Necessary and Sufficient Condition Based on Quantum Entanglement"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
