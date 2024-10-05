@@ -12,7 +12,7 @@ title                    : "Yotam Alexander"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://yotamalexander.github.io/Yotam-Alexander/
+url                      : https://yotamalexander.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
